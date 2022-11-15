@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Bitcoin - 分类 - hanbin</title>
+        <link>https://hanbin.github.io/categories/bitcoin/</link>
+        <description>Bitcoin - 分类 - hanbin</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 25 Jul 2022 11:48:05 &#43;0800</lastBuildDate><atom:link href="https://hanbin.github.io/categories/bitcoin/" rel="self" type="application/rss+xml" /><item>
+    <title>比特币标准</title>
+    <link>https://hanbin.github.io/the_bitcoin_standard/</link>
+    <pubDate>Mon, 25 Jul 2022 11:48:05 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://hanbin.github.io/the_bitcoin_standard/</guid>
+    <description><![CDATA[The Bitcoin Standard]]></description>
+</item></channel>
+</rss>
